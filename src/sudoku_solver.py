@@ -2,6 +2,8 @@ import time
 import argparse
 from utils import solve_sudoku, print_sudoku, is_valid
 
+
+
 def print_sudoku_with_highlight(board, original_board):
     """Print the Sudoku board with highlighted solution."""
     for i in range(9):
