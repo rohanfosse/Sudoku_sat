@@ -1,5 +1,7 @@
 # Sudoku Generator
 
+> The SAT encoding behind the solver is taught step by step, in French and runnable in the browser, in the [satisfiability course of Page vive](https://pagevive.fr/satisfiabilite).
+
 A Sudoku puzzle generator and solver implemented in Python.
 
 ## Features
